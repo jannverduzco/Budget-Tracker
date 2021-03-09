@@ -40,20 +40,20 @@ SO THAT my account balance is accurate when I am traveling
 ## Mock-Up 
 
 ### Budget Tracker
-![GitHub Logo](images/)
+![GitHub Logo](images/BudgetTracker.png)
 
 ### Adding Funds
-![GitHub Logo](images/)
+![GitHub Logo](images/AddingFunds.png)
 
 ### Subtracting Funds
-![GitHub Logo](images/)
+![GitHub Logo](images/subtractingFunds.png)
 
 ### Online/Offline
 ![GitHub Logo](images/)
 
 
 ## Live Link (Heroku)
-### 
+### https://bdg-tracker.herokuapp.com/
 
 ## Repository Link
 ### https://github.com/jannverduzco/My-Workout-Tracker
