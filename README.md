@@ -56,7 +56,7 @@ SO THAT my account balance is accurate when I am traveling
 ### https://bdg-tracker.herokuapp.com/
 
 ## Repository Link
-### https://github.com/jannverduzco/My-Workout-Tracker
+### https://github.com/jannverduzco/Budget-Tracker
 
  ## Questions
  Please contact me direclty at [janneth_verduzco@live.com](janneth_verduzco@live.com) with any questions or suggestions.
