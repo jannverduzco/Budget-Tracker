@@ -1,11 +1,10 @@
 const FILES_TO_CACHE = [
-    './index.html',
-    './index.js',
-    './indexedDb.js',
-    './service-worker.js',
-    './style.css',
-    './icons/icon-192x192.png',
-    './icons/icon-512x512.png'
+    '/index.html',
+    '/index.js',
+    '/indexedDb.js',
+    '/style.css',
+    '/icons/icon-192x192.png',
+    '/icons/icon-512x512.png'
   ];
   
   
@@ -51,7 +50,7 @@ self.addEventListener("fetch", event => {
     return;
   }
 
-  if (event.request.url.includes("/api/images")) {
+  if (event.request.url.includes("/api/transaction")) {
     event.respondWith(
       caches.open(RUNTIME_CACHE).then(cache => {
         return fetch(event.request)
