@@ -48,8 +48,12 @@ SO THAT my account balance is accurate when I am traveling
 ### Subtracting Funds
 ![GitHub Logo](images/subtractingFunds.png)
 
-### Online/Offline
-![GitHub Logo](images/)
+### Online/Offline (PWA)
+#### Adding transaction while offline.
+![GitHub Logo](images/Offline.png)
+
+#### Transaction still visible and saved once back online.
+![GitHub Logo](images/Online.png)
 
 
 ## Live Link (Heroku)
