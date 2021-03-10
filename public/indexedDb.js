@@ -1,6 +1,6 @@
 let db;
 // creating a budget DB.
-const request = indexedDB.open("budget", 1);
+const request = window.indexedDB.open("budget", 1);
 
 request.onupgradeneeded = function(event) {
    // create object store called "pending" and set autoIncrement to true
